@@ -134,7 +134,7 @@ body {
 	
 }
 
-.yoruba {
+.group {
 
   flex: 5;
 
@@ -291,7 +291,7 @@ footer i {
 		max-width: 300px;
 	}
 	
-	.yoruba p {
+	.group p {
 		max-width: 300px;
 	}
 	
@@ -314,7 +314,7 @@ footer i {
 		max-width: 400px;
 	}
 	
-	.yoruba p {
+	.group p {
 		max-width: 400px;
 	}
 		
